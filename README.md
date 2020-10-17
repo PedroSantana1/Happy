@@ -21,7 +21,7 @@
 <br>
 
 <p align="center">
-  <img alt="Happy" src=".github/happy.png" width="100%">
+  <img alt="Happy" src="https://github.com/guilhermecapitao/nlw3-discovery-happy/raw/master/.github/happy.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
