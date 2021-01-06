@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  <img alt="Dealership" src="https://101content.com/wp-content/uploads/2019/05/BMW-dealership-photography-auto-dealership-360-tour-company-virtual-tours-for-automotive-dealerships.jpg" width="100%">
+  <img alt="Dealership" src="https://101content.com/wp-content/uploads/2019/05/BMW-dealership-photography-auto-dealership-360-tour-company-virtual-tours-for-automotive-dealerships.jpg" width="60%">
 </p>
 
 ## 🚀 Tecnologias
