@@ -35,7 +35,6 @@ Este é um projeto desenvolvido para o projeto final do 1ºano de curso de Gest�
     <p>M5 - Estruturas de Dados Compostas (Nota: 19)<p>
     <p>M6 - Estruturas de Dados Dinâmicas (Nota: 20)<p>
     <p>M7 - Tratamento de Ficheiros (Nota:20)<p>
-<br>
 
 ## 📝 Licença
 
