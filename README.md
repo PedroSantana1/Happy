@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="QuickSaleLogo" title="QuickSale" src="https://cdn.discordapp.com/attachments/547492245897478164/796386452014759966/e.png" width="25%" />
+    <img alt="QuickSaleLogo" title="QuickSale" src="https://cdn.discordapp.com/attachments/547492245897478164/796386452014759966/e.png" width="15%" />
 </h1>
 
 <p align="center">
