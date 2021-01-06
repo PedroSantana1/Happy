@@ -1,52 +1,39 @@
 <h1 align="center">
-    <img alt="Happy" title="Happy" src="https://cdn.discordapp.com/attachments/547492245897478164/796386452014759966/e.png" width="25%" />
+    <img alt="QuickSaleLogo" title="QuickSale" src="https://cdn.discordapp.com/attachments/547492245897478164/796386452014759966/e.png" width="25%" />
 </h1>
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
 <p align="center">
   <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E6&labelColor=121214" alt="License">
-  
-  <img src="https://img.shields.io/github/forks/guilhermecapitao/nlw3-discovery-happy?label=forks&message=MIT&color=8257E6&labelColor=121214" alt="Forks">     
-
-  <img src="https://img.shields.io/github/stars/guilhermecapitao/nlw3-discovery-happy?label=stars&message=MIT&color=8257E6&labelColor=121214" alt="Stars"> 
-
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="Happy" src="https://101content.com/wp-content/uploads/2019/05/BMW-dealership-photography-auto-dealership-360-tour-company-virtual-tours-for-automotive-dealerships.jpg" width="100%">
+  <img alt="Dealership" src="https://101content.com/wp-content/uploads/2019/05/BMW-dealership-photography-auto-dealership-360-tour-company-virtual-tours-for-automotive-dealerships.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- [Node.js](https://nodejs.org/en/)
-- [Express](https://expressjs.com/pt-br/)
-- [SQLite](https://www.sqlite.org/index.html)
-- [handlebars](https://handlebarsjs.com/)
+- C
 
 ## 💻 Projeto
 
-O Happy é um projeto que visa facilitar visitas aos orfanatos próximos a você 💜 
+A QuickSale é um projeto destinado a empresas do ramo automóvel e com ele é possivel registar e visualizar vendas, adicionar, remover ou alterar stock existente, adicionar despesas e também comparar o imposto de vários veiculos através de um simulador de ISV💜 
 
-Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 12 a 18 de Outubro de 2020.
+Este é um projeto desenvolvido para o projeto final do 1ºano de curso de Gestão e Programação de Sistemas Informáticos da **[Escola Digital](https://escoladigital.com/)**, que avalia os seguintes módulos:
 
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através dos links abaixo:
-
-- [Layout Web](https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web?node-id=0%3A1) 
-- [Layout Mobile](https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile?node-id=0%3A1) 
-
-Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
+M4 - Estruturas de Dados Estáticas (Nota: 20)
+M5 - Estruturas de Dados Compostas (Nota: 19)
+M6 - Estruturas de Dados Dinâmicas (Nota: 20)
+M7 - Tratamento de Ficheiros (Nota:20)
 
 ## 📝 Licença
 
@@ -54,4 +41,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-<p align="center">Desenvolvido com 💜 RocketSeat</p>
+<p align="center">Desenvolvido por 💜 PedroSantana</p>
