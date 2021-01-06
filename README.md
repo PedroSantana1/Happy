@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Happy" title="Happy" src="https://github.com/guilhermecapitao/nlw3-discovery-happy/raw/master/.github/logo.svg" />
+    <img alt="Happy" title="Happy" src="https://cdn.discordapp.com/attachments/547492245897478164/796386452014759966/e.png" width="25%" />
 </h1>
 
 <p align="center">
@@ -21,7 +21,7 @@
 <br>
 
 <p align="center">
-  <img alt="Happy" src="https://github.com/guilhermecapitao/nlw3-discovery-happy/raw/master/.github/happy.png" width="100%">
+  <img alt="Happy" src="https://101content.com/wp-content/uploads/2019/05/BMW-dealership-photography-auto-dealership-360-tour-company-virtual-tours-for-automotive-dealerships.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
